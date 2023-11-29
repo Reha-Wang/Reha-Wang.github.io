@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "static/css/main.76b9aba2.chunk.css",
-    "main.js": "static/js/main.050075af.chunk.js",
-    "main.js.map": "static/js/main.050075af.chunk.js.map",
+    "main.js": "static/js/main.29fb8e6d.chunk.js",
+    "main.js.map": "static/js/main.29fb8e6d.chunk.js.map",
     "runtime-main.js": "static/js/runtime-main.795715e6.js",
     "runtime-main.js.map": "static/js/runtime-main.795715e6.js.map",
-    "static/js/2.36cc6a05.chunk.js": "static/js/2.36cc6a05.chunk.js",
-    "static/js/2.36cc6a05.chunk.js.map": "static/js/2.36cc6a05.chunk.js.map",
+    "static/js/2.f500ee0d.chunk.js": "static/js/2.f500ee0d.chunk.js",
+    "static/js/2.f500ee0d.chunk.js.map": "static/js/2.f500ee0d.chunk.js.map",
     "index.html": "index.html",
     "static/css/main.76b9aba2.chunk.css.map": "static/css/main.76b9aba2.chunk.css.map",
-    "static/js/2.36cc6a05.chunk.js.LICENSE.txt": "static/js/2.36cc6a05.chunk.js.LICENSE.txt",
-    "static/js/main.050075af.chunk.js.LICENSE.txt": "static/js/main.050075af.chunk.js.LICENSE.txt",
+    "static/js/2.f500ee0d.chunk.js.LICENSE.txt": "static/js/2.f500ee0d.chunk.js.LICENSE.txt",
+    "static/js/main.29fb8e6d.chunk.js.LICENSE.txt": "static/js/main.29fb8e6d.chunk.js.LICENSE.txt",
     "static/media/avatar1.1d9e1978.png": "static/media/avatar1.1d9e1978.png",
     "static/media/avatar2.b8132c3c.png": "static/media/avatar2.b8132c3c.png",
     "static/media/avatar3.4d26ce02.png": "static/media/avatar3.4d26ce02.png",
@@ -27,6 +27,7 @@
     "static/media/logo-spotify.88c0d071.svg": "static/media/logo-spotify.88c0d071.svg",
     "static/media/logo-webdev.a00560c3.svg": "static/media/logo-webdev.a00560c3.svg",
     "static/media/logo-xd.b09b6daa.svg": "static/media/logo-xd.b09b6daa.svg",
+    "static/media/logo.472378ed.png": "static/media/logo.472378ed.png",
     "static/media/profile-1.b93e4339.png": "static/media/profile-1.b93e4339.png",
     "static/media/profile-2.9c96bf40.png": "static/media/profile-2.9c96bf40.png",
     "static/media/profile-3.bc197530.png": "static/media/profile-3.bc197530.png",
@@ -39,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.795715e6.js",
-    "static/js/2.36cc6a05.chunk.js",
+    "static/js/2.f500ee0d.chunk.js",
     "static/css/main.76b9aba2.chunk.css",
-    "static/js/main.050075af.chunk.js"
+    "static/js/main.29fb8e6d.chunk.js"
   ]
 }
