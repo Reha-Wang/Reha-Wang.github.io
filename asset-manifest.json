@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "static/css/main.76b9aba2.chunk.css",
-    "main.js": "static/js/main.c12378a3.chunk.js",
-    "main.js.map": "static/js/main.c12378a3.chunk.js.map",
+    "main.js": "static/js/main.99721313.chunk.js",
+    "main.js.map": "static/js/main.99721313.chunk.js.map",
     "runtime-main.js": "static/js/runtime-main.795715e6.js",
     "runtime-main.js.map": "static/js/runtime-main.795715e6.js.map",
-    "static/js/2.e4c0793a.chunk.js": "static/js/2.e4c0793a.chunk.js",
-    "static/js/2.e4c0793a.chunk.js.map": "static/js/2.e4c0793a.chunk.js.map",
+    "static/js/2.4d1608d0.chunk.js": "static/js/2.4d1608d0.chunk.js",
+    "static/js/2.4d1608d0.chunk.js.map": "static/js/2.4d1608d0.chunk.js.map",
     "index.html": "index.html",
     "static/css/main.76b9aba2.chunk.css.map": "static/css/main.76b9aba2.chunk.css.map",
-    "static/js/2.e4c0793a.chunk.js.LICENSE.txt": "static/js/2.e4c0793a.chunk.js.LICENSE.txt",
-    "static/js/main.c12378a3.chunk.js.LICENSE.txt": "static/js/main.c12378a3.chunk.js.LICENSE.txt",
+    "static/js/2.4d1608d0.chunk.js.LICENSE.txt": "static/js/2.4d1608d0.chunk.js.LICENSE.txt",
+    "static/js/main.99721313.chunk.js.LICENSE.txt": "static/js/main.99721313.chunk.js.LICENSE.txt",
     "static/media/body-background.9fde73c7.png": "static/media/body-background.9fde73c7.png",
     "static/media/logo-spotify.88c0d071.svg": "static/media/logo-spotify.88c0d071.svg",
     "static/media/logo.472378ed.png": "static/media/logo.472378ed.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.795715e6.js",
-    "static/js/2.e4c0793a.chunk.js",
+    "static/js/2.4d1608d0.chunk.js",
     "static/css/main.76b9aba2.chunk.css",
-    "static/js/main.c12378a3.chunk.js"
+    "static/js/main.99721313.chunk.js"
   ]
 }
